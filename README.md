@@ -25,24 +25,24 @@ This Power BI dashboard analyzes Netflix content performance across genres, coun
 - Ratings
 
 **🔄 Data Preparation**
-Data Cleaning & Transformation
-Handling Missing Values
-Data Modeling
-DAX Measures & KPIs
-Interactive Filters and Slicers
+- Data Cleaning & Transformation
+- Handling Missing Values
+- Data Modeling
+- DAX Measures & KPIs
+- Interactive Filters and Slicers
 
 
 **📈 Dashboard Insights**
 Content Performance**
-An**alyzed viewership across Netflix titles to identify the most popular content.
-Top-performing titles include Black Mirror, Narcos, Squid Game, Stranger Things, The Crown, and Breaking Bad.
+- Analyzed viewership across Netflix titles to identify the most popular content.
+- Top-performing titles include Black Mirror, Narcos, Squid Game, Stranger Things, The Crown, and Breaking Bad.
 **Genre Analysis**
-Comedy emerged as the most viewed genre.
-Other high-performing genres include Fantasy, Drama, Romance, Documentary, and Sci-Fi.
+- Comedy emerged as the most viewed genre.
+- Other high-performing genres include Fantasy, Drama, Romance, Documentary, and Sci-Fi.
 **Release Year Trends**
-Content is distributed across multiple release years, enabling analysis of Netflix's evolving content catalog.
-Year-based filtering allows users to explore trends over time.
+- Content is distributed across multiple release years, enabling analysis of Netflix's evolving content catalog.
+- Year-based filtering allows users to explore trends over time.
 **Content Type Analysis**
-Compared Movies and TV Shows to understand content distribution and audience engagement.
+- Compared Movies and TV Shows to understand content distribution and audience engagement.
 **Regional Analysis**
-Country-level filtering enables exploration of content performance across different regions.
+- Country-level filtering enables exploration of content performance across different regions.
