@@ -5,10 +5,10 @@
 This Power BI dashboard analyzes Netflix content performance across genres, countries, content types, and release years. It provides insights into content popularity, viewing trends, and genre distribution to better understand Netflix's content library.
 
 **🛠️ Tools Used**
-- **Power BI
-- **Power Query
-- **DAX
-- **Excel
+- Power BI
+- Power Query
+- DAX
+- Excel
 
 **📊 Key KPIs**
 - **Total Movies & TV Shows:** 100
@@ -16,13 +16,13 @@ This Power BI dashboard analyzes Netflix content performance across genres, coun
 - **Average Rating:** 7.4
 
 **📂 Dataset Features**
-- **Title
-- **Genre
-- **Country
-- **Release Year
-- **Content Type (Movie / TV Show)
-- **Views
-- **Ratings
+- Title
+- Genre
+- Country
+- Release Year
+- Content Type (Movie / TV Show)
+- Views
+- Ratings
 
 **🔄 Data Preparation**
 Data Cleaning & Transformation
